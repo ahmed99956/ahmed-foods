@@ -91,7 +91,7 @@ width: 100px;
 background-color:orange;
 margin: 20px auto;
 }
-.featured-deck{
+.featured-decs{
     width: 70%;
     margin: 10px auto;
 }
@@ -294,7 +294,7 @@ text-align: center;
 }
 .hat{
     background-color: white;
-    border-radius: 20px;
+    border-radius: 0px;
     margin-right: 100px;
     top: 50px;
 }
@@ -306,10 +306,11 @@ span{
 }
 #contact1{
     background-color: rgb(219, 217, 217);
+  
 }
 .ahm{
     background-color: white;
-    border-radius: 20px;
+    border-radius: 0px;
     margin-right: 100px;
     top: 50px;
 }
